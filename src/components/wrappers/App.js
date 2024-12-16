@@ -13,6 +13,7 @@ class App extends Component {
             </StateProvider>
         );
     }
+    
 }
 
 export default App;
